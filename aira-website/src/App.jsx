@@ -1,11 +1,7 @@
-import Hero from './components/Hero'
+import AIRAWebsite from './components/AIRAWebsite'
 
 function App() {
-  return (
-    <>
-      <Hero />
-    </>
-  )
+  return <AIRAWebsite />
 }
 
 export default App
